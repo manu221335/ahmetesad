@@ -78,7 +78,6 @@ function çalıştır(komut) {
         }
 }
 
-var aaa = "bbb";
 
 function sth() {
     String(fs.readFileSync('./skriptler/' + document.getElementById('ç').value + '.ahmetesad')).split(" & ").map(kmt => {
