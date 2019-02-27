@@ -17,7 +17,7 @@
 - BİTTİ Mİ? ELBETTE HAYIR! Artık TAMAMEN OTOMATİK güncelleniyor! (Kısacası kodu düzenledikten sonra yedeğini alın çünkü üzerine yazılabilir)
 
 0.0.3 Güncellemesi İçin Planlar:
-- Skript içerisinden skript çalıtırma.
+- Skript içerisinden skript çalıştırma.
 
 0.0.2 Sürümündeki Bilinen Hatalar:
 - {a} {b} şeklinde denediğinizde çalışmıyor. Sebebi ise içerisini "a} {b" olarak alması (çözmesi imkansız gibi bir şey).
