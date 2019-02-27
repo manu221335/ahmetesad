@@ -31,8 +31,6 @@ Dosya Örnek Kullanımı:
 Skript Örnek Kullanımı:
 * mavi renk ile konsola "selam" yazdır & sarı renk ile konsola "nasılsın?" yazdır & yeşil renk ile konsola "iyiyim" yazdır
 
-- AhmetEsad.
-
 Nasıl Çalıştırılır?
 - node dil.js
 veya
