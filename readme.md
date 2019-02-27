@@ -8,7 +8,7 @@
 - Electron yerine konsol kullanılıyor (teşekkürler inquirer modülü)
 - Yazdır komutu eklendi, kullanım: beyaz/kırmızı/sarı/yeşil/mavi renk ile konsola "selam" yazdır
 - ARTIK BAŞKA SATIRLAR KULLANILABİLİYOR! Evet yanlış duymadınız.
-- Artık tek tırnak (') veya şu adını bilmediğim şey (`) kullanılamıyor. " kullanmanız gerekiyor (Aynı kodu ' ve ` için kopyalayamayacak kadar üşengecim).
+- Artık tek tırnak (\') veya şu adını bilmediğim şey (\`) kullanılamıyor. " kullanmanız gerekiyor (Aynı kodu ' ve \` için kopyalayamayacak kadar üşengecim).
 - Kaydet komutu eklendi, kullanım: isim = "Ahmet" (isim, JSON dosyasında Ahmet olarak kaydedilir)
 - Sil komutu eklendi, kullanım: isim objesini sil (isim, JSON dosyasından kaldırılır)
 - Bekle komutu eklendi, kullanım: 1000 ms bekle (kendisinden sonra gelen komutu gerçekleştirmeden önce 1000ms / 1 saniye bekler)
